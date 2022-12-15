@@ -1,2 +1,2 @@
 # Sudoko_Solver.py
-I implemented a csp solver using MRV, AC3, LCV to solve Sudoko.
+I implemented a backtrack + MRV, AC3 and LCV to solve Sudoko.
